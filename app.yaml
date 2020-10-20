@@ -4,9 +4,9 @@ env: flex
 env_variables:
   # --REQUIRED--
   DATABASE_URI: mongodb://admin:9zseTDcvwRzZSUM2@SG-testaa-38783:27017/admin
-  APP_ID: <your-app-id>
-  MASTER_KEY: <your-master-key>
-  SERVER_URL: https://your-project-id.appspot.com/parse
+  APP_ID: 150250
+  MASTER_KEY: testi
+  SERVER_URL: https://127.0.0.1/parse
   # --OPTIONAL--
   # FILE_KEY: <your-file-key>
   # PARSE_MOUNT: /parse
